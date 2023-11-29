@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Assignment1_Middleware.CustomMiddleware
 {
- // You may need to install the Microsoft.AspNetCore.Http.Abstractions package into your project
+
  public class LoginMiddleware
  {
   private readonly RequestDelegate _next;
